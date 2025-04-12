@@ -68,13 +68,6 @@ Aplikasi ini bisa di-deploy ke berbagai platform hosting:
    }
    ```
 
-### Firebase Hosting (versi statis)
-1. Buat file HTML statis terlebih dahulu
-2. Install Firebase CLI: `npm install -g firebase-tools`
-3. Login: `firebase login`
-4. Inisialisasi: `firebase init` (pilih Hosting)
-5. Deploy: `firebase deploy`
-
 ## 👥 Kontributor
 - [Nama Anda](https://github.com/username)
 
